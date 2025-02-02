@@ -10,20 +10,8 @@
 
 ###
 
-<h2 align="left">👩‍💻 Profiles:</h2>
-
-###
-<div align="left">
-  
-  
-  <a href="https://www.linkedin.com/in/archita-saraswati-82b654253/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  
-  <a href="https://x.com/ArchitaSaraswa7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-  </a>
-</div>
+## 🚀 Profiles:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/archita-saraswati-82b654253/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ArchitaSaraswa7) 
 
 ###
 
