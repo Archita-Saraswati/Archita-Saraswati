@@ -11,7 +11,10 @@
 
 ###
 
-<h3 align="left">🌐 Profiles:</h3>
+<h2 align="left">🌐 Profiles:</h2>
+
+###
+
 <p align="left">
 <a href="https://twitter.com/architasaraswa7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="architasaraswa7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/archita saraswati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archita saraswati" height="30" width="40" /></a>
