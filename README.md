@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a passionate Full-Stack Developer and Computer Science (CSE) student with hands-on experience in building scalable and dynamic web applications. I specialize in MERN Stack (MongoDB, Express.js, React.js, Node.js), Flask, SQL,  Next.js, Context API, React Query, Redux, Tailwind  with a strong foundation in Java and Data Structures & Algorithms (DSA).I love solving problems, collaborating on impactful projects, and exploring AI and Web3 innovations. Open to exciting opportunities where I can contribute and grow!</p>
+<p align="left">I'm a passionate Full-Stack Developer and CSE student with experience in building scalable web applications. Proficient in MERN Stack, Flask, SQL, and Next.js, with expertise in state management tools like Context API, React Query, and Redux. Strong foundation in Java and DSA, with a keen interest in problem-solving, impactful collaborations, and exploring AI and Web3. Open to exciting opportunities to learn, contribute, and grow!</p>
 
 
 ###
