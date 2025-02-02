@@ -8,10 +8,7 @@
 
 <p align="left">I'm a passionate Full-Stack Developer and Computer Science (CSE) student with hands-on experience in building scalable and dynamic web applications. I specialize in MERN Stack (MongoDB, Express.js, React.js, Node.js), Flask, SQL,  Next.js, Context API, React Query, Redux, Tailwind  with a strong foundation in Java and Data Structures & Algorithms (DSA).I love solving problems, collaborating on impactful projects, and exploring AI and Web3 innovations. Open to exciting opportunities where I can contribute and grow!</p>
 
-###
 
-## 🚀 Profiles:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/archita-saraswati-82b654253/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ArchitaSaraswa7) 
 
 ###
 
