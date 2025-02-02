@@ -9,6 +9,13 @@
 <p align="left">I'm a passionate Full-Stack Developer and Computer Science (CSE) student with hands-on experience in building scalable and dynamic web applications. I specialize in MERN Stack (MongoDB, Express.js, React.js, Node.js), Flask, SQL,  Next.js, Context API, React Query, Redux, Tailwind  with a strong foundation in Java and Data Structures & Algorithms (DSA).I love solving problems, collaborating on impactful projects, and exploring AI and Web3 innovations. Open to exciting opportunities where I can contribute and grow!</p>
 
 
+###
+
+<h3 align="left">🌐 Profiles:</h3>
+<p align="left">
+<a href="https://twitter.com/architasaraswa7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="architasaraswa7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/archita saraswati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archita saraswati" height="30" width="40" /></a>
+</p>
 
 ###
 
@@ -77,6 +84,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+<h2 align="left">📊 GitHub Stats:</h2>
+<div align="center">
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=archita-saraswati&show_icons=true&locale=en&layout=compact" alt="archita-saraswati" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archita-saraswati&show_icons=true&locale=en" alt="archita-saraswati" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archita-saraswati&" alt="archita-saraswati" /></p>
+
+</div>
+
+###
+<h2 align="left">🏆 GitHub Trophies</h2>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archita-saraswati" alt="archita-saraswati" /></a> </p>
 
 ###
 <div align="center">
